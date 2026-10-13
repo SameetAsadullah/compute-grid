@@ -1,0 +1,8 @@
+*.o
+*.out
+*.class
+target/
+build/
+.idea/
+.vscode/
+.DS_Store
