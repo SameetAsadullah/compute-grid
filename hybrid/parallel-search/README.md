@@ -6,12 +6,12 @@ A hybrid C++ search that partitions an array across MPI workers and uses OpenMP 
 ### Manual
 1) Use following command to `Compile the Code`:
     ```
-    mpic++ -fopenmp Source.cpp -o Source
+    mpic++ -fopenmp main.cpp -o parallel-search
     ```
 
 2) Use following command to `Execute the Code`. 3 indicates total number of processes to create:
     ```
-    mpiexec -n 3 -f machinefile ./Source
+    mpiexec -n 3 -f machinefile ./parallel-search
     ```
     
 ### Working Screenshots
