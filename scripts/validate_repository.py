@@ -11,7 +11,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-EXERCISES = (
+IMPLEMENTATIONS = (
     "openmp/thread-count", "openmp/consensus", "mpi/consensus",
     "hybrid/parallel-search", "mapreduce/word-count",
     "mapreduce/max-temperature", "mapreduce/keyword-analysis",
@@ -27,7 +27,7 @@ def command(args: list[str], source: Path, errors: list[str]) -> None:
 
 def main() -> int:
     errors: list[str] = []
-    for relative in EXERCISES:
+    for relative in IMPLEMENTATIONS:
         directory = ROOT / relative
         if not (directory / "README.md").is_file():
             errors.append(f"missing README: {relative}")
@@ -61,7 +61,7 @@ def main() -> int:
         for error in errors:
             print(f"- {error}")
         return 1
-    print(f"Validated {len(EXERCISES)} parallel and distributed exercises.")
+    print(f"Validated {len(IMPLEMENTATIONS)} parallel and distributed implementations.")
     return 0
 
 
