@@ -8,10 +8,10 @@ The implementations remain close to their original form. This repository brings 
 
 | Area | Exercises |
 |---|---|
-| OpenMP | Thread discovery and a shared-memory consensus exercise |
-| MPI | Distributed consensus across processes |
-| Hybrid MPI + OpenMP | Parallel search across worker processes and threads |
-| Hadoop MapReduce | Word count, maximum temperature, keyword analysis, and average comment length |
+| OpenMP | [Thread discovery](openmp/thread-count) and a [shared-memory consensus](openmp/consensus) exercise |
+| MPI | [Distributed consensus](mpi/consensus) across processes |
+| Hybrid MPI + OpenMP | [Parallel search](hybrid/parallel-search) across worker processes and threads |
+| Hadoop MapReduce | [Word count](mapreduce/word-count), [maximum temperature](mapreduce/max-temperature), [keyword analysis](mapreduce/keyword-analysis), and [average comment length](mapreduce/comment-length) |
 
 ## Toolchains
 

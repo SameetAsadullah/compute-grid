@@ -5,5 +5,5 @@ Program coded in `Java language` to find the average length of comments in a `La
     
 ### Working Screenshot
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Finding-Average-Length-of-Comments-Using-MapReduce-Hadoop/blob/main/extras/working-ss.png" alt = "" width="700px"/>
+  <img src="extras/working-ss.png" alt="Average comment-length MapReduce output" width="700px"/>
 </div>

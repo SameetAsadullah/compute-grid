@@ -16,5 +16,5 @@ Program coded in `C++ language` to count and print total number of threads being
     
 ### Working Screenshot
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Count-Threads-OpenMP/blob/main/extras/working-ss.png" alt = "" width="700px"/>
+  <img src="extras/working-ss.png" alt="OpenMP thread-count output" width="700px"/>
 </div>

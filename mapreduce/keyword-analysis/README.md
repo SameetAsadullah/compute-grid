@@ -5,5 +5,5 @@ Program coded in `Java language` to find different types of keywords in a `Large
     
 ### Working Screenshot
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Check-Keywords-Using-MapReduce-Hadoop/blob/main/extras/working-ss.png" alt = "" width="700px"/>
+  <img src="extras/working-ss.png" alt="Keyword-analysis MapReduce output" width="700px"/>
 </div>

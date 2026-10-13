@@ -16,5 +16,5 @@ Program coded in `C++ language` to solve the `Consensus Problem` between `Multip
     
 ### Working Screenshot
 <div align="center">
-  <img src = "https://github.com/SameetAsadullah/Consensus-Problem-Using-OpenMP/blob/main/extras/working-ss.png" alt = "" width="700px"/>
+  <img src="extras/working-ss.png" alt="OpenMP consensus output" width="700px"/>
 </di
