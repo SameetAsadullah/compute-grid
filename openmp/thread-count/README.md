@@ -1,7 +1,7 @@
 <h1 align="center">Count Threads in an OpenMP Program</h1>
 
 ### Description
-Program coded in `C++ language` to count and print total number of threads being used in an `OpenMP Code`.
+A C++ OpenMP runtime probe that reports the active thread count in a parallel region.
 
 ### Manual
 1) Use following command to `Compile the Code`:

@@ -1,7 +1,7 @@
 <h1 align="center">Consensus Problem using MPI</h1>
 
 ### Description
-Program coded in `C++ language` to solve the `Consensus Problem` between `Multiple Threads` using `MPI`.
+A distributed C++ consensus implementation using MPI processes and message passing.
 
 ### Manual
 1) Use following command to `Compile the Code`:

@@ -1,7 +1,7 @@
 <h1 align="center">Finding Average Length of Comments Using MapReduce Hadoop</h1>
 
 ### Description
-Program coded in `Java language` to find the average length of comments in a `Large File` using `Hadoop MapReduce`.
+A Java Hadoop MapReduce pipeline that computes aggregate comment-length statistics over large datasets.
     
 ### Working Screenshot
 <div align="center">

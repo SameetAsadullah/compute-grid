@@ -1,7 +1,7 @@
 <h1 align="center">Check Keywords Using MapReduce Hadoop</h1>
 
 ### Description
-Program coded in `Java language` to find different types of keywords in a `Large File` using `Hadoop MapReduce`
+A Java Hadoop MapReduce pipeline for classifying and aggregating keyword occurrences across large text inputs.
     
 ### Working Screenshot
 <div align="center">
