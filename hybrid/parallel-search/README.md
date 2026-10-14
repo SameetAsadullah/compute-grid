@@ -1,7 +1,7 @@
 <h1 align="center">Searching a Number Among Slave Processes Using OpenMP and MPI</h1>
 
 ### Description
-A hybrid C++ search that partitions an array across MPI workers and uses OpenMP within each process. The supporting [problem specification](Project%20Statement.pdf) is retained with the implementation.
+A hybrid C++ search that partitions an array across MPI workers and uses OpenMP within each process. The supporting [system specification](docs/system-specification.pdf) is retained with the implementation.
 
 ### Manual
 1) Use following command to `Compile the Code`:
