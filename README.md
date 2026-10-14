@@ -1,8 +1,8 @@
-# Parallel and Distributed Computing
+# Compute Grid
 
-A curated collection of parallel and distributed implementations using OpenMP, MPI, hybrid parallelism, and Hadoop MapReduce.
+Parallel and distributed programs built with OpenMP, MPI, hybrid execution, and Hadoop MapReduce.
 
-The implementations remain close to their original form. This repository brings them into one structure, preserves their histories, and documents the progression from shared-memory concurrency to distributed data processing.
+The workloads span shared-memory coordination, distributed processes, and data-parallel processing. Native components are validated on Linux.
 
 ## Contents
 
@@ -19,8 +19,8 @@ The implementations remain close to their original form. This repository brings 
 - Open MPI for MPI and hybrid programs
 - Java and Hadoop MapReduce libraries for the MapReduce programs
 
-Each component retains its original README and source layout. The repository CI validates the structure and compiles the native programs on Linux.
+Each component has its own README and source layout. Repository CI checks the structure and compiles the native programs on Linux.
 
 ## Provenance and licensing
 
-See [PROVENANCE.md](PROVENANCE.md). The original repositories did not declare licenses, so no blanket open-source license is introduced here.
+See [PROVENANCE.md](PROVENANCE.md) for source history and licensing. No repository-wide open-source license is declared.

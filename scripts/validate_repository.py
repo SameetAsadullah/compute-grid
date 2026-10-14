@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate layout and compile native parallel-computing examples."""
+"""Validate layout and compile native parallel programs."""
 
 from __future__ import annotations
 

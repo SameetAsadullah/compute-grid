@@ -18,5 +18,5 @@ jobs:
       - name: Install MPI toolchain
         run: sudo apt-get update && sudo apt-get install --yes openmpi-bin libopenmpi-dev
 
-      - name: Validate collection and native source
+      - name: Validate parallel workloads and native source
         run: python3 scripts/validate_repository.py
